@@ -1,0 +1,12 @@
+boto3
+streamlit
+json
+PyPDF2
+io
+requests
+matplotlib
+datetime
+pandas
+yaml
+streamlit_authenticator
+streamlit_mic_recorder
