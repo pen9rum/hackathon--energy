@@ -1,0 +1,39 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$f8asm4IhLRoQoS1rwgO25eA6oqQC8ba0Y1W685UpuGQ/IkkC0oXme
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$U12X3JgyJh23ZxzO0MzGjetwrbPiZeeXhpdVlP9CXvA8oj8OAQVlK
+    sophie:
+      email: sophie4971397@gmail.com
+      failed_login_attempts: 3
+      logged_in: false
+      name: sophieku
+      password: $2b$12$UwiL2rTAi28GzeGq2Nu8t.XHZ2UizqI5ZB5NwwQq6/iMR2ROTPweO
+    wayne_:
+      email: wayne.yang@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Yang
+      password: $2b$12$UwiL2rTAi28GzeGq2Nu8t.XHZ2UhlbyYTYhrvGHsT1t9BDHas5KZi
+    wayne_yang:
+      email: b11705057@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Wayne
+      password: $2b$12$CzEnZjaWMT0x8YiUMcBUpu5Y.3/hlbyYTYhrvGHsT1t9BDHas5KZi
+pre-authorized:
+  emails:
+    - melsby@gmail.com
